@@ -1,0 +1,17 @@
+# Funciones en el directorio src/controllers/validacion/index:
+
+Este archivo README.md proporciona una descripción de las funciones ubicadas en el directorio src/controllers/validacion/index.
+
+## Funciones:
+
+### 1. updateStateVouchers
+
+Esta función se encarga de actualizar el estado de los comprobantes utilizando la API de Migo.
+
+### 2. generateReportVouchers
+
+La función `generateReportVouchers` está diseñada para generar un reporte de los comprobantes.
+
+### 3. emitNoteVouchers
+
+`emitNoteVouchers` es una función que se utiliza para emitir notas de crédito para los comprobantes.
